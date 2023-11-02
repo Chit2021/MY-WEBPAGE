@@ -1,2 +1,2 @@
 # MY-WEBPAGE
-This is my webpage where you can get information anout my background and experiences.
+This is my basic webpage where you can get information about my background and experiences.
